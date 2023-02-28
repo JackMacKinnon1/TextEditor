@@ -1,4 +1,4 @@
-# PROG2400-Assignment1
+# Assignment 1
 
 ## Notes:
 
